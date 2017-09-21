@@ -5,7 +5,7 @@
 ## Required Softwares
 
 1. PHP เวอร์ชัน 7.x (เครื่องที่ใช้ demo คือ 7.1.8)
-1. Composer เวอร์ชันล่าสุด ดูวิธีการได้จาก [getcomposer.org](https://getcomposer.org/doc/00-intro.md)
+1. Composer เวอร์ชันล่าสุด ดูวิธีการติดตั้งได้จาก [getcomposer.org](https://getcomposer.org/doc/00-intro.md)
 
 ทุกโปรแกรมควรเรียกใช้ได้ผ่าน Terminal (Linux, macOS) หรือ Command Prompt (Windows) ครับ 
 ตรวจสอบได้ด้วยการเรียกใช้คำสั่ง ด้านล่าง
